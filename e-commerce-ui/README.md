@@ -1,7 +1,7 @@
 # UI Design with Flutter
 
 
-<img src="/ss.png" alt="image" width="300" height="auto">
+<img src="images/ss.png" alt="image" width="300" height="auto">
 
 
 For help getting started with Flutter development, view the
